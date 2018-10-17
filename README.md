@@ -1,2 +1,2 @@
-# software-shortcut-cheatsheets
+# Software Cheatsheets
 Cheatsheets for different software programs
