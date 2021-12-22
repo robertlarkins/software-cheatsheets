@@ -1,5 +1,7 @@
 # Visual Studio Shortcuts
 
+Short cuts with an unhighlighted comma indicates a two part shortcut. Perform the first part, called a chord, then do the second part.
+
 ## General
 
 | Shortcut                  | Description                         | R# Shortcut         |
@@ -54,28 +56,30 @@
 | `Alt`+`E`, `G`, `G`      | Go To (shortcut through menu)              |                     |
 | `Ctrl`+Shift+F           | Search solution                            |                     |
 | `Ctrl`+Shift+H           | Find and replace text in all files         |                     |
-| `Ctrl`+T                 | Search: 1x: everywhere, 2x: type, 3x: text | :heavy_check_mark   |
-| `Ctrl`+Shift+T           | Search for File or Folder                  | :heavy_check_mark   |
-| `Alt`+Shift+T            | Search for symbol (member or type)         | :heavy_check_mark   |
-| `Ctrl`+`,`               | Recent files                               | :heavy_check_mark   |
-| `Ctrl`+`Shift`+`,`       | Recent edits                               | :heavy_check_mark   |
+| `Ctrl`+T                 | Search: 1x: everywhere, 2x: type, 3x: text | :heavy_check_mark:  |
+| `Ctrl`+Shift+T           | Search for File or Folder                  | :heavy_check_mark:  |
+| `Alt`+Shift+T            | Search for symbol (member or type)         | :heavy_check_mark:  |
+| `Ctrl`+`,`               | Recent files                               | :heavy_check_mark:  |
+| `Ctrl`+`Shift`+`,`       | Recent edits                               | :heavy_check_mark:  |
 <br>
 
 ## Text Editing
-| Shortcut                  | Description                         | R# Shortcut         |
-| ---                       | ---                                 | :-:                 |
-Ins          Toggle insert or override when typing
-Ctrl+C          Copy line if no text is selected
-Ctrl+X          Cut line if no text is selected
-Ctrl+Shift+S          Save all files
-Ctrl+Shift+V          Clipboard ring (or Ctrl+Shift+Ins)
-Shift+Enter          Smart break line
-Tab          Indent selected text
-Shift+Tab          Unindent selected text
-Ctrl+Alt+Shift+Up          Shift line or code block up R#
-Ctrl+Alt+Shift+Down          Shift line or code block down R#
-Ctrl+Alt+Shift+Left          Move argument left R#
-Ctrl+Alt+Shift+Right          Move argument right R#
+
+| Shortcut                     | Description                            | R# Shortcut         | Alternative          |
+| ---                          | ---                                    | :-:                 | ---                  |
+| `Ins`                        | Toggle insert or override when typing  |                     |                      |
+| `Ctrl`+`C`                   | Copy line if no text is selected       |                     |                      |
+| `Ctrl`+`X`                   | Cut line if no text is selected        |                     |                      |
+| `Ctrl`+`Shift`+`S`           | Save all files                         |                     |                      |
+| `Ctrl`+`Shift`+`V`           | Clipboard ring                         |                     | `Ctrl`+`Shift`+`Ins` |
+| `Shift`+`Enter`              | Smart break line                       |                     |                      |
+| `Tab`                        | Indent selected text                   |                     |                      |
+| `Shift`+`Tab`                | Unindent selected text                 |                     |                      |
+| `Ctrl`+`Alt`+`Shift`+`Up`    | Shift line or code block up            | :heavy_check_mark:  |                      |
+| `Ctrl`+`Alt`+`Shift`+`Down`  | Shift line or code block down          | :heavy_check_mark:  |                      |
+| `Ctrl`+`Alt`+`Shift`+`Left`  | Move argument left                     | :heavy_check_mark:  |                      |
+| `Ctrl`+`Alt`+`Shift`+`Right` | Move argument right                    | :heavy_check_mark:  |                      |
+
  
 ## Highlighting
 | Shortcut                  | Description                         | R# Shortcut         |
