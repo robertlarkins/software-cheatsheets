@@ -1,6 +1,6 @@
 # Visual Studio Shortcuts
 
-Short cuts with an unhighlighted comma indicates a two part shortcut. Perform the first part, called a chord, then do the second part.
+Short cuts with an unhighlighted comma indicates a two part shortcut (or chord). Perform the first part, then the second part.
 
 ## General
 
