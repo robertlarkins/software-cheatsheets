@@ -48,19 +48,17 @@
 
 ## Searching
 
-| Shortcut                 | Description                           | R# Shortcut         |
-| ---                      | ---                                   | :-:                 |
-
-Ctrl+;          Search Solution Explorer
-Alt+E, G, G          Go To (shortcut through menu)
-Ctrl+Shift+F          Search solution
-Ctrl+Shift+H          Find and replace text in all files
-Ctrl+T          Search: 1x: everywhere, 2x: type, 3x: text R#
-Ctrl+Shift+T          Search for File or Folder R#
-Alt+Shift+T          Search for symbol (member & type) R#
-Ctrl+,          Recent files R#
-Ctrl+Shift+,          Recent edits R#
-
+| Shortcut                 | Description                                | R# Shortcut         |
+| ---                      | ---                                        | :-:                 |
+| `Ctrl`+`;`               | Search Solution Explorer                   |                     |
+| `Alt`+`E`, `G`, `G`      | Go To (shortcut through menu)              |                     |
+| `Ctrl`+Shift+F           | Search solution                            |                     |
+| `Ctrl`+Shift+H           | Find and replace text in all files         |                     |
+| `Ctrl`+T                 | Search: 1x: everywhere, 2x: type, 3x: text | :heavy_check_mark   |
+| `Ctrl`+Shift+T           | Search for File or Folder                  | :heavy_check_mark   |
+| `Alt`+Shift+T            | Search for symbol (member or type)         | :heavy_check_mark   |
+| `Ctrl`+`,`               | Recent files                               | :heavy_check_mark   |
+| `Ctrl`+`Shift`+`,`       | Recent edits                               | :heavy_check_mark   |
 <br>
 
 ## Text Editing
