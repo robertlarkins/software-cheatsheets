@@ -46,7 +46,7 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 | `Ctrl`+`M`, `Ctrl`+`O`   | Collapse all regions                  |                     |
 | `Ctrl`+`M`, `Ctrl`+`P`   | Expand all regions                    |                     |
 | `Ctrl`+`M`, `Ctrl`+`M`   | Expand or Collapse region at cursor   |                     |
-
+<br>
 
 ## Searching
 
@@ -79,50 +79,56 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 | `Ctrl`+`Alt`+`Shift`+`Down`  | Shift line or code block down          | :heavy_check_mark:  |                      |
 | `Ctrl`+`Alt`+`Shift`+`Left`  | Move argument left                     | :heavy_check_mark:  |                      |
 | `Ctrl`+`Alt`+`Shift`+`Right` | Move argument right                    | :heavy_check_mark:  |                      |
-
+<br>
  
 ## Highlighting
-| Shortcut                  | Description                         | R# Shortcut         |
-| ---                       | ---                                 | :-:                 |
-Alt+Shift+F11          Highlight symbol usages (Esc to remove) R#
-Ctrl+Alt+PgDn          Go to next highlight R#
-Ctrl+Alt+PgUp          Go to previous highlight R#
+
+| Shortcut                  | Description                             | R# Shortcut         |
+| ---                       | ---                                     | :-:                 |
+| `Alt`+`Shift`+`F11`       | Highlight symbol usages (Esc to remove) | :heavy_check_mark:  |
+| `Ctrl`+`Alt`+`PgDn`       | Go to next highlight                    | :heavy_check_mark:  |
+| `Ctrl`+`Alt`+`PgUp`       | Go to previous highlight                | :heavy_check_mark:  |
+<br>
 
 ## Selection
-| Shortcut                  | Description                         | R# Shortcut         |
-| ---                       | ---                                 | :-:                 |
-Ctrl+Alt+Right          Extend selection (or Ctrl+W)
-Ctrl+Alt+Left          Shrink selection (or Ctrl+Shift+W)
-Alt+Shift+Arrows          Column selection (or Alt+Mouse Drag)
-Ctrl+Shift+[          Select containing declaration R#
+
+| Shortcut                  | Description                    | R# Shortcut         | Alternative        |
+| ---                       | ---                            | :-:                 | ---                |
+| `Ctrl`+`Alt`+`Right`      | Extend selection               |                     | `Ctrl`+`W`         |
+| `Ctrl`+`Alt`+`Left`       | Shrink selection               |                     | `Ctrl`+`Shift`+`W` |
+| `Alt`+`Shift`+`Arrows`    | Column selection               |                     | `Alt`+`Mouse Drag` |
+| `Ctrl`+`Shift`+`[`        | Select containing declaration  | :heavy_check_mark:  |                    |
+<br>
 
 ## Carets
-| Shortcut                  | Description                         | R# Shortcut         |
-| ---                       | ---                                 | :-:                 |
-Ctrl+Alt+Left-Click          Add caret
-Alt+Shift+.          Add caret at next location matching selection
-Alt+Shift+;          Add carets at all locations matching selection
 
+| Shortcut                  | Description                                    | R# Shortcut  |
+| ---                       | ---                                            | :-:          |
+| `Ctrl`+`Alt`+`Left-Click` | Add caret                                      |              |
+| `Alt`+`Shift`+`.`         | Add caret at next location matching selection  |              |
+| `Alt`+`Shift`+`;`         | Add carets at all locations matching selection |              |
+<br>
 
 ## Navigation
-| Shortcut                  | Description                         | R# Shortcut         |
-| ---                       | ---                                 | :-:                 |
-Alt+\`          Navigate To destinations at caret R#
-F12          Go to definition at caret (or Ctrl+Left Click)
-Ctrl+F12          Go to implementation at caret
-Ctrl+-          Go to previous location
-Ctrl+Shift+-          Go to next location
-Ctrl+Shift+BkSp          Go to last edit location
-Ctrl+Alt+F7          Show related files
-Alt+End          Go to derived symbols of object at caret R#
-Alt+Home          Go to base symbols of object at caret R#
-Ctrl+Shift+F11          Go to declaration of symbol type R#
-Alt+Shift+F12          Show symbol usages R#
-Shift+F12          Find usages of symbol R#
-Ctrl+Alt+Shift+F12          Advanced find usages of symbol R#
-Ctrl+K, Ctrl+T          Display Call Hierarchy for member at caret
-Alt+Shift+L          Go to current file in Solution Explorer R#
 
+| Shortcut                   | Description                                | R# Shortcut         | Alternative         |
+| ---                        | ---                                        | :-:                 | ---                 |
+| `Alt`+`` ` ``              | Navigate To destinations at caret          | :heavy_check_mark:  |                     |
+| `F12`                      | Go to definition at caret                  |                     | `Ctrl`+`Left Click` |
+| `Ctrl`+`F12`               | Go to implementation at caret              |                     |                     |
+| `Ctrl`+`-`                 | Go to previous location                    |                     |                     |
+| `Ctrl`+`Shift`+`-`         | Go to next location                        |                     |                     |
+| `Ctrl`+`Shift`+`Backspace` | Go to last edit location                   |                     |                     |
+| `Ctrl`+`Alt`+`F7`          | Show related files                         |                     |                     |
+| `Alt`+`End`                | Go to derived symbols of object at caret   | :heavy_check_mark:  |                     |
+| `Alt`+`Home`               | Go to base symbols of object at caret      | :heavy_check_mark:  |                     |
+| `Ctrl`+`Shift`+`F11`       | Go to declaration of symbol type           | :heavy_check_mark:  |                     |
+| `Alt`+`Shift`+`F12`        | Show symbol usages                         | :heavy_check_mark:  |                     |
+| `Shift`+`F12`              | Find usages of symbol                      | :heavy_check_mark:  |                     |
+| `Ctrl`+`Alt`+`Shift`+`F12` | Advanced find usages of symbol             | :heavy_check_mark:  |                     |
+| `Ctrl`+`K`, `Ctrl`+`T`     | Display Call Hierarchy for member at caret | :heavy_check_mark:  |                     |
+| `Alt`+`Shift`+`L`          | Go to current file in Solution Explorer    | :heavy_check_mark:  |                     |
+<br>
 
 ## Navigate Within File
 
