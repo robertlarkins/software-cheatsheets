@@ -134,61 +134,71 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 
 | Shortcut                  | Description                         | R# Shortcut         |
 | ---                       | ---                                 | :-:                 |
-Ctrl+F          Search File
-Ctrl+H          Find and replace text in file
-Ctrl+G          Go to line
-Alt+Shift+[          Go to containing block
-Ctrl+[          Go to containing declaration R#
-Ctrl+]          Go to corresponding brace
-Ctrl+Shift+]          Select to corresponding brace
-Alt+\          Search members in class R#
-Alt+Up          Go to previous member in file R#
-Alt+Down          Go to next member in file R#
-Alt+PgDn          Go to next issue
-Alt+PgUp          Go to previous issue
-Alt+Shift+PgDn          Go to next compilation error R#
-Alt+Shift+PgUp          Go to previous compilation error R#
-Ctrl+Alt+F          File Structure R#
+| `Ctrl`+`F`                | Search File                         |                     |
+| `Ctrl`+`H`                | Find and replace text in file       |                     |
+| `Ctrl`+`G`                | Go to line                          |                     |
+| `Alt`+`Shift`+`[`         | Go to containing block              |                     |
+| `Ctrl`+`[`                | Go to containing declaration        | :heavy_check_mark:  |
+| `Ctrl`+`]`                | Go to corresponding brace           |                     |
+| `Ctrl`+`Shift`+`]`        | Select to corresponding brace       |                     |
+| `Alt`+`\`                 | Search members in class             | :heavy_check_mark:  |
+| `Alt`+`Up`                | Go to previous member in file       | :heavy_check_mark:  |
+| `Alt`+`Down`              | Go to next member in file           | :heavy_check_mark:  |
+| `Alt`+`PgDn`              | Go to next issue                    |                     |
+| `Alt`+`PgUp`              | Go to previous issue                |                     |
+| `Alt`+`Shift`+`PgDn`      | Go to next compilation error        | :heavy_check_mark:  |
+| `Alt`+`Shift`+`PgUp`      | Go to previous compilation error    | :heavy_check_mark:  |
+| `Ctrl`+`Alt`+`F`          | File Structure                      | :heavy_check_mark:  |
+<br>
  
+
 ## Peek View
 
-| Shortcut                  | Description                         | R# Shortcut         |
-| ---                       | ---                                 | :-:                 |
-Alt+F12          Peek definition at caret. Esc to exit.
-Ctrl+Alt+-          Go to previous peek
-Ctrl+Alt+=          Go to next peek
-Ctrl+Alt+Home          Promote peek to new tab
-Shift+Esc          Toggle between peek and code
-F8          Navigate up results in peek
-Shift+F8          Navigate down results in peek
-Code Completion
-Ctrl+Alt+Space          Smart completion R#
-Ctrl+Shift+Enter          Complete statement R#
-Alt+Ins          Generate code. SE: generate file R#
+| Shortcut             | Description                            | R# Shortcut   |
+| ---                  | ---                                    | :-:           |
+| `Alt`+`F12`          | Peek definition at caret. Esc to exit. |               |
+| `Ctrl`+`Alt`+`-`     | Go to previous peek                    |               |
+| `Ctrl`+`Alt`+`=`     | Go to next peek                        |               |
+| `Ctrl`+`Alt`+`Home`  | Promote peek to new tab                |               |
+| `Shift`+`Esc`        | Toggle between peek and code           |               |
+| `F8`                 | Navigate up results in peek            |               |
+| `Shift`+`F8`         | Navigate down results in peek          |               |
+<br>
+
+
+## Code Completion
+
+| Shortcut               | Description         | R# Shortcut         | Solution Explorer |
+| ---                    | ---                 | :-:                 | ---               |
+| `Ctrl`+`Alt`+`Space`   | Smart completion    | :heavy_check_mark:  |                   |
+| `Ctrl`+`Shift`+`Enter` | Complete statement  | :heavy_check_mark:  |                   |
+| `Alt`+`Ins`            | Generate code.      | :heavy_check_mark:  | Generate File     |
+<br>
 
 
 ## Commenting
 
-| Shortcut                  | Description                         | R# Shortcut         |
-| ---                       | ---                                 | :-:                 |
-Ctrl+K, Ctrl+C          Comment selected lines
-Ctrl+K, Ctrl+U          Uncomment selected lines
-Ctrl+Alt+/          Line Comment/Uncomment R#
-Ctrl+Shift+/          Block Comment/Uncomment R#
+| Shortcut                  | Description                   | R# Shortcut         |
+| ---                       | ---                           | :-:                 |
+| `Ctrl`+`K`, `Ctrl`+`C`    | Comment selected lines        |                     |
+| `Ctrl`+`K`, `Ctrl`+`U`    | Uncomment selected lines      |                     |
+| `Ctrl`+`Alt`+`/`          | Line Comment/Uncomment        | :heavy_check_mark:  |
+| `Ctrl`+`Shift`+`/`        | Block Comment/Uncomment       | :heavy_check_mark:  |
+<br>
 
 
 ## Refactoring (SE: Multilevel in Solution Explorer)
-
-| Shortcut                  | Description                         | R# Shortcut         |
-| ---                       | ---                                 | :-:                 |
-Ctrl+R, Ctrl+R          Rename object
-Ctrl+R, G          Remove and sort usings
-Ctrl+R, R          Rename object at caret R#
-Ctrl+Shift+R          Refactor object at caret or selection R#
-Ctrl+K, Ctrl+D          Format syntax
-Ctrl+E, C          Code cleanup (SE) R#
-Ctrl+Alt+Enter          Apply code formatting rules (SE) R#
-Alt+Del          Safe delete R#
+| Shortcut                  | Description                             | R# Shortcut         | Solution Explorer  |
+| ---                       | ---                                     | :-:                 | ---                |
+| `Ctrl`+`R`, `Ctrl`+`R`    | Rename object                           |                     |                    |
+| `Ctrl`+`R`, `G`           | Remove and sort usings                  |                     |                    |
+| `Ctrl`+`R`, `R`           | Rename object at caret                  | :heavy_check_mark:  |                    |
+| `Ctrl`+`Shift`+`R`        | Refactor object at caret or selection   | :heavy_check_mark:  |                    |
+| `Ctrl`+`K`, `Ctrl`+`D`    | Format syntax                           |                     |                    |
+| `Ctrl`+`E`, `C`           | Code cleanup                            | :heavy_check_mark:  | Apply at any level |
+| `Ctrl`+`Alt`+`Enter`      | Apply code formatting rules             | :heavy_check_mark:  | Apply at any level |
+| `Alt`+`Del`               | Safe delete                             | :heavy_check_mark:  |                    |
+<br>
 
 
 ## Breakpoints
