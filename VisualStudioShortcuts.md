@@ -203,59 +203,56 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 
 ## Breakpoints
 
-| Shortcut                  | Description                         | R# Shortcut         |
-| ---                       | ---                                 | :-:                 |
-F9          Toggle breakpoint at caret
-Ctrl+F9          Enable or disable break point at caret
-Ctrl+Shift+F9          Delete all break points
-Alt+F9, C          Breakpoint conditions
-Ctrl+Alt+B          Breakpoint window
+| Shortcut                  | Description                              | R# Shortcut         |
+| ---                       | ---                                      | :-:                 |
+| `F9`                      | Toggle breakpoint at caret               |                     |
+| `Ctrl`+`F9`               | Enable or disable break point at caret   |                     |
+| `Ctrl`+`Shift`+`F9`       | Delete all break points                  |                     |
+| `Alt`+`F9`, `C`           | Breakpoint conditions                    |                     |
+| `Ctrl`+`Alt`+`B`          | Breakpoint window                        |                     |
+<br>
 
 
 ## Building, Running & Debugging
 
-| Shortcut                  | Description                         | R# Shortcut         |
-| ---                       | ---                                 | :-:                 |
-Ctrl+Shift+B          Build
-Alt+B, R          Rebuild (shortcut through menu)
-F5          Start Project, or continue running
-Ctrl+F5          Start without Debugging
-Ctrl+Shift+F5          Restart project
-Shift+F5          Stop Debugging
-F10          Step over
-F11          Step into
-Shift+F11          Step out
-Ctrl+F10          Run to cursor
-Alt+Num *          Go to current execution point
-Ctrl+E, E          Run selected code in C# Interactive
-Ctrl+E, T          Explore stack trace from clipboard R#
+| Shortcut                  | Description                           | R# Shortcut         |
+| ---                       | ---                                   | :-:                 |
+| `Ctrl`+`Shift`+`B`        | Build                                 |                     |
+| `Alt`+`B`, `R`            | Rebuild (shortcut through menu)       |                     |
+| `F5`                      | Start Project, or continue running    |                     |
+| `Ctrl`+`F5`               | Start without Debugging               |                     |
+| `Ctrl`+`Shift`+`F5`       | Restart project                       |                     |
+| `Shift`+`F5`              | Stop Debugging                        |                     |
+| `F10`                     | Step over                             |                     |
+| `F11`                     | Step into                             |                     |
+| `Shift`+`F11`             | Step out                              |                     |
+| `Ctrl`+`F10`              | Run to cursor                         |                     |
+| `Alt`+`Num *`             | Go to current execution point         |                     |
+| `Ctrl`+`E`, `E`           | Run selected code in C# Interactive   |                     |
+| `Ctrl`+`E`, `T`           | Explore stack trace from clipboard    | :heavy_check_mark:  |
+<br>
+
  
 ## Testing
 
 | Shortcut                  | Description                         | R# Shortcut         |
 | ---                       | ---                                 | :-:                 |
-Ctrl+R, T          Run Tests
-Ctrl+R, Ctrl+T          Debug Tests
-Ctrl+U, R          Run ReSharper tests R#
-Ctrl+U, D          Debug ReSharper tests R#
-Ctrl+Alt+T          Unit test sessions R#
-Ctrl+Alt+U          Unit test explorer R#
+| `Ctrl`+`R`, `T`           | Run Tests                           |                     |
+| `Ctrl`+`R`, `Ctrl`+`T`    | Debug Tests                         |                     |
+| `Ctrl`+`U`, `R`           | Run ReSharper tests                 | :heavy_check_mark:  |
+| `Ctrl`+`U`, `D`           | Debug ReSharper tests               | :heavy_check_mark:  |
+| `Ctrl`+`Alt`+`T`          | Unit test sessions                  | :heavy_check_mark:  |
+| `Ctrl`+`Alt`+`U`          | Unit test explorer                  | :heavy_check_mark:  |
+<br>
 
 
 ## Remote Desktop Equivalent Shortcuts
 
 | Shortcut                  | Description                         | R# Shortcut         |
 | ---                       | ---                                 | :-:                 |
-Ctrl+Alt+Shift+H          Shift line or code block up R#
-Ctrl+Alt+Shift+J          Shift line or code block down R#
-Ctrl+Alt+Shift+K          Move argument left R#
-Ctrl+Alt+Shift+L          Move argument right R#
+| `Ctrl`+`Alt`+`Shift`+`H`  | Shift line or code block up         | :heavy_check_mark:  |
+| `Ctrl`+`Alt`+`Shift`+`J`  | Shift line or code block down       | :heavy_check_mark:  |
+| `Ctrl`+`Alt`+`Shift`+`K`  | Move argument left                  | :heavy_check_mark:  |
+| `Ctrl`+`Alt`+`Shift`+`L`  | Move argument right                 | :heavy_check_mark:  |
+<br>
 
-
-
-
-&#x229E; Win  
-&#x2756; Win
-
-
-<span style="color:blue">some *blue* text</span>.
