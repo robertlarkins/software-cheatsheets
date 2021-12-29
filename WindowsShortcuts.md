@@ -62,64 +62,80 @@ The Windows Key within shortcuts will be represented as <code>&#x2756; Win</code
 
 
 ## File Explorer
-+E	Open File Explorer
-Ctrl+N	Open copy of current File Explorer window
-Ctrl+Shift+N	Create new folder in File Explorer
-Alt+D	Go to address bar
-Alt+Left	Go back a directory
-Alt+Right	Go forward a directory
-Alt+Up	Go up directory hierarchy
+
+| Shortcut                    | Description                                    |
+| ---                         | ---                                            |
+| <code>&#x2756;</code>+`E`   | Open File Explorer                             |
+| `Ctrl`+`N`                  | Open copy of current File Explorer window      |
+| `Ctrl`+`Shift`+`N`          | Create new folder in File Explorer             |
+| `Alt`+`D`                   | Go to address bar                              |
+| `Alt`+`Left`                | Go back a directory                            |
+| `Alt`+`Right`               | Go forward a directory                         |
+| `Alt`+`Up`                  | Go up directory hierarchy                      |
+<br>
 
 
 ## Virtual Desktops
-+Tab	Task view. Manage virtual desktops
-+Ctrl+D	Create new virtual desktop
-+Ctrl+F4	Close current virtual desktop
-+Ctrl+Left	Go to previous virtual desktop
-+Ctrl+Right	Go to next virtual desktop
+
+| Shortcut                             | Description                              |
+| ---                                  | ---                                      |
+| <code>&#x2756;</code>+`Tab`          | Task view. Manage virtual desktops       |
+| <code>&#x2756;</code>+`Ctrl`+`D`     | Create new virtual desktop               |
+| <code>&#x2756;</code>+`Ctrl`+`F4`    | Close current virtual desktop            |
+| <code>&#x2756;</code>+`Ctrl`+`Left`  | Go to previous virtual desktop           |
+| <code>&#x2756;</code>+`Ctrl`+`Right` | Go to next virtual desktop               |
+<br>
 
 
 ## Navigation
-Ctrl+Alt+Tab	Open window switcher
-Alt+Tab	Switch to next window
-Alt+Shift+Tab	Switch to previous window
-Alt+Esc	Quick switch to next window
-Alt+Shift+Esc	Quick switch to previous window
+
+| Shortcut                             | Description                              |
+| ---                                  | ---                                      |
+| `Ctrl`+`Alt`+`Tab`                   | Open window switcher                     |
+| `Alt`+`Tab`                          | Switch to next window                    |
+| `Alt`+`Shift`+`Tab`                  | Switch to previous window                |
+| `Alt`+`Esc`                          | Quick switch to next window              |
+| `Alt`+`Shift`+`Esc`                  | Quick switch to previous window          |
+<br>
 
 
 ## Address bar environment variable short-hands
 
 These are Windows File Explorer address bar environment variable short-hands.
 
-| Address Bar Variable                     | Directory                                      |
-| ---                                      | ---                                            |
-| %allusersprofile%                        | ProgramData                                    |
-| %programfiles%                           | Program Files                                  |
-| %programfiles(x86)%                      | Program Files (x86)                            |
-| %userprofile%                            | Current user’s directory (C:\Users\username)   |
-| %localappdata%                           | %userprofile%\AppData\Local                    |
-| %appdata%                                | %userprofile%\AppData\Roaming                  |
-| %temp%                                   | %localappdata%\Temp                            |
-| %tmp%                                    | %localappdata%\Temp                            |
-| %homepath%                               | Typically C:\                                  |
-| %homedrive%                              | Current user’s personal directory              |
-| %homeshare%                              | Current user’s personal directory              |
-| %systemdrive%                            | Typically C:\                                  |
-| %systemroot%                             | Windows directory                              |
-| %windir%                                 | Windows directory                              |
+| Address Bar Variable             | Directory                                      |
+| ---                              | ---                                            |
+| `%allusersprofile%`              | ProgramData                                    |
+| `%programfiles%`                 | Program Files                                  |
+| `%programfiles(x86)%`            | Program Files (x86)                            |
+| `%userprofile%`                  | Current user’s directory (C:\Users\username)   |
+| `%localappdata%`                 | %userprofile%\AppData\Local                    |
+| `%appdata%`                      | %userprofile%\AppData\Roaming                  |
+| `%temp%`                         | %localappdata%\Temp                            |
+| `%tmp%`                          | %localappdata%\Temp                            |
+| `%homepath%`                     | Typically C:\                                  |
+| `%homedrive%`                    | Current user’s personal directory              |
+| `%homeshare%`                    | Current user’s personal directory              |
+| `%systemdrive%`                  | Typically C:\                                  |
+| `%systemroot%`                   | Windows directory                              |
+| `%windir%`                       | Windows directory                              |
+<br>
 
 
 ## Application Window
-Alt+F4	Close active window
-Alt+Space	Open window menu
-Alt+Space, R	Restore down from maximised
-Alt+Space, N	Minimise window
-Alt+Space, X	Maximise window
-Alt+Space, M	Move window (mouse or arrow keys)
+
+| Shortcut                      | Description                              | Alternative                          |
+| ---                           | ---                                      | ---                                  |
+| `Alt`+`F4`                    | Close active window                      |                                      |
+| `Alt`+`Space`                 | Open window menu                         |                                      |
+| `Alt`+`Space`, `R`            | Restore down from maximised              |                                      |
+| `Alt`+`Space`, `N`            | Minimise window                          |                                      |
+| `Alt`+`Space`, `X`            | Maximise window                          | Double click the windows title bar   |
+| `Alt`+`Space`, `M`            | Move window (mouse or arrow keys)        |                                      |
+<br>
 
 
 ## Other Tricks
-•	Double click a windows title bar to maximise
 •	Shift+Left Click program icon opens another instance (or middle click)
 •	Double click a word to select it
 •	Double click and hold selects words when dragged
