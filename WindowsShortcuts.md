@@ -5,27 +5,27 @@ The Windows Key within shortcuts will be represented as <code>&#x2756; Win</code
 
 ## General
 
-| Shortcut                                 | Description                                    | Alternative                | Remote Desktop Shortcut |
-| ---                                      | ---                                            | ---                        | ---                     |
-| <code>&#x2756;</code>                    | Start menu                                     |                            |                         |
-| <code>&#x2756;</code>+`L`                | Lock the PC                                    |                            |                         |
-| <code>&#x2756;</code>+`D`                | Show desktop                                   |                            |                         |
-| <code>&#x2756;</code>+`,`                | Peek at Desktop                                |                            |                         |
-| <code>&#x2756;</code>+`R`                | Open Run prompt                                |                            |                         |
-| <code>&#x2756;</code>+`I`                | Open Windows Settings                          |                            |                         |
-| <code>&#x2756;</code>+`P`                | Show project (display) options                 |                            |                         |
-| <code>&#x2756;</code>+`X`                | Quick Link Menu                                |                            |                         |
-| <code>&#x2756;</code>+`V`                | Clipboard (P pin / U unpin selected element)   |                            |                         |
-| <code>&#x2756;</code>+`Arrows`           | Shift active window around monitor             |                            |                         |
-| <code>&#x2756;</code>+`Shift`+`Arrows`   | Shift active window between monitors           |                            |                         |
-| <code>&#x2756;</code>+`Home`             | Minimise non-active windows                    |                            |                         |
-| <code>&#x2756;</code>+`.`                | Emoji list                                     | <code>&#x2756;</code>+`;`  |                         |
-| `Ctrl`+`Shift`+`Esc`                     | Task Manager                                   |                            |                         |
-| <code>&#x2630;</code>                    | Menu Key, open context menu                    | Mouse right click          |                         |
-| `Shift`+<code>&#x2630;</code>            | File Explorer advanced context menu            |                            |                         |
-| `Ctrl`+`Shift`+<code>&#x2756;</code>+`B` | Restart graphics driver to fix graphics issue  |                            |                         |
-| `Shift`+`Del`                            | Permanently delete file                        |                            |                         |
-| `Ctrl`+`Alt`+`Del`                       | Windows security screen                        |                            | `Ctrl`+`Alt`+`End`      |
+| Shortcut                                     | Description                                    | Alternative                    | Remote Desktop Shortcut |
+| ---                                          | ---                                            | ---                            | ---                     |
+| <code>&#x2756; Win</code>                    | Start menu                                     |                                |                         |
+| <code>&#x2756; Win</code>+`L`                | Lock the PC                                    |                                |                         |
+| <code>&#x2756; Win</code>+`D`                | Show desktop                                   |                                |                         |
+| <code>&#x2756; Win</code>+`,`                | Peek at Desktop                                |                                |                         |
+| <code>&#x2756; Win</code>+`R`                | Open Run prompt                                |                                |                         |
+| <code>&#x2756; Win</code>+`I`                | Open Windows Settings                          |                                |                         |
+| <code>&#x2756; Win</code>+`P`                | Show project (display) options                 |                                |                         |
+| <code>&#x2756; Win</code>+`X`                | Quick Link Menu                                |                                |                         |
+| <code>&#x2756; Win</code>+`V`                | Clipboard (P pin / U unpin selected element)   |                                |                         |
+| <code>&#x2756; Win</code>+`Arrows`           | Shift active window around monitor             |                                |                         |
+| <code>&#x2756; Win</code>+`Shift`+`Arrows`   | Shift active window between monitors           |                                |                         |
+| <code>&#x2756; Win</code>+`Home`             | Minimise non-active windows                    |                                |                         |
+| <code>&#x2756; Win</code>+`.`                | Emoji list                                     | <code>&#x2756; Win</code>+`;`  |                         |
+| `Ctrl`+`Shift`+`Esc`                         | Task Manager                                   |                                |                         |
+| <code>&#x2630;</code>                        | Menu Key, open context menu                    | Mouse right click              |                         |
+| `Shift`+<code>&#x2630;</code>                | File Explorer advanced context menu            |                                |                         |
+| `Ctrl`+`Shift`+<code>&#x2756; Win</code>+`B` | Restart graphics driver to fix graphics issue  |                                |                         |
+| `Shift`+`Del`                                | Permanently delete file                        |                                |                         |
+| `Ctrl`+`Alt`+`Del`                           | Windows security screen                        |                                | `Ctrl`+`Alt`+`End`      |
 <br>
 
 
@@ -33,35 +33,35 @@ The Windows Key within shortcuts will be represented as <code>&#x2756; Win</code
 
 | Shortcut                                 | Description                                    |
 | ---                                      | ---                                            |
-| <code>&#x2756;</code>+`Shift`+`S`        |	Launch screen snip tool                        |
-| `PrtScn`	                                | Screenshot of monitors to clipboard            |
-| `Alt`+`PrtScn`                           |	Screenshot of active window to clipboard       |
+| <code>&#x2756; Win</code>+`Shift`+`S`    | Launch screen snip tool                        |
+| `PrtScn`	                               | Screenshot of monitors to clipboard            |
+| `Alt`+`PrtScn`                           | Screenshot of active window to clipboard       |
 <br>
 
 
 ## File Explorer
 
-| Shortcut                    | Description                                    |
-| ---                         | ---                                            |
-| <code>&#x2756;</code>+`E`   | Open File Explorer                             |
-| `Ctrl`+`N`                  | Open copy of current File Explorer window      |
-| `Ctrl`+`Shift`+`N`          | Create new folder in File Explorer             |
-| `Alt`+`D`                   | Go to address bar                              |
-| `Alt`+`Left`                | Go back a directory                            |
-| `Alt`+`Right`               | Go forward a directory                         |
-| `Alt`+`Up`                  | Go up directory hierarchy                      |
+| Shortcut                        | Description                                    |
+| ---                             | ---                                            |
+| <code>&#x2756; Win</code>+`E`   | Open File Explorer                             |
+| `Ctrl`+`N`                      | Open copy of current File Explorer window      |
+| `Ctrl`+`Shift`+`N`              | Create new folder in File Explorer             |
+| `Alt`+`D`                       | Go to address bar                              |
+| `Alt`+`Left`                    | Go back a directory                            |
+| `Alt`+`Right`                   | Go forward a directory                         |
+| `Alt`+`Up`                      | Go up directory hierarchy                      |
 <br>
 
 
 ## Virtual Desktops
 
-| Shortcut                             | Description                              |
-| ---                                  | ---                                      |
-| <code>&#x2756;</code>+`Tab`          | Task view. Manage virtual desktops       |
-| <code>&#x2756;</code>+`Ctrl`+`D`     | Create new virtual desktop               |
-| <code>&#x2756;</code>+`Ctrl`+`F4`    | Close current virtual desktop            |
-| <code>&#x2756;</code>+`Ctrl`+`Left`  | Go to previous virtual desktop           |
-| <code>&#x2756;</code>+`Ctrl`+`Right` | Go to next virtual desktop               |
+| Shortcut                                 | Description                              |
+| ---                                      | ---                                      |
+| <code>&#x2756; Win</code>+`Tab`          | Task view. Manage virtual desktops       |
+| <code>&#x2756; Win</code>+`Ctrl`+`D`     | Create new virtual desktop               |
+| <code>&#x2756; Win</code>+`Ctrl`+`F4`    | Close current virtual desktop            |
+| <code>&#x2756; Win</code>+`Ctrl`+`Left`  | Go to previous virtual desktop           |
+| <code>&#x2756; Win</code>+`Ctrl`+`Right` | Go to next virtual desktop               |
 <br>
 
 
