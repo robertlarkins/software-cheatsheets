@@ -41,7 +41,7 @@ The Windows Key within shortcuts will be represented as <code>&#x2756; Win</code
 | <code>&#x2756;</code>+`Arrows`           | Shift active window around monitor             |                            |                         |
 | <code>&#x2756;</code>+`Shift`+`Arrows`   | Shift active window between monitors           |                            |                         |
 | <code>&#x2756;</code>+`Home`             | Minimise non-active windows                    |                            |                         |
-| <code>&#x2756;</code>+`.`	Emoji list     | Emoji list                                     | <code>&#x2756;</code>+`;`  |                         |
+| <code>&#x2756;</code>+`.`                | Emoji list                                     | <code>&#x2756;</code>+`;`  |                         |
 | `Ctrl`+`Shift`+`Esc`                     | Task Manager                                   |                            |                         |
 | <code>&#x2630;</code>                    | Menu Key, open context menu                    | Mouse right click          |                         |
 | `Shift`+<code>&#x2630;</code>            | File Explorer advanced context menu            |                            |                         |
@@ -52,9 +52,13 @@ The Windows Key within shortcuts will be represented as <code>&#x2756; Win</code
 
 
 ## Screen Capture
-+Shift+S	Launch screen snip tool
-PrtScn	Screenshot of monitors to clipboard
-Alt+PrtScn	Screenshot of active window to clipboard
+
+| Shortcut                                 | Description                                    |
+| ---                                      | ---                                            |
+| <code>&#x2756;</code>+`Shift`+`S`        |	Launch screen snip tool                        |
+| `PrtScn`	                                | Screenshot of monitors to clipboard            |
+| `Alt`+`PrtScn`                           |	Screenshot of active window to clipboard       |
+<br>
 
 
 ## File Explorer
@@ -84,20 +88,25 @@ Alt+Shift+Esc	Quick switch to previous window
 
 
 ## Address bar environment variable short-hands
-%allusersprofile%	ProgramData
-%programfiles%	Program Files
-%programfiles(x86)%	Program Files (x86)
-%userprofile%	Current user’s directory (C:\Users\username)
-%localappdata%	%userprofile%\AppData\Local
-%appdata%	%userprofile%\AppData\Roaming
-%temp%	%localappdata%\Temp
-%tmp%	%localappdata%\Temp
-%homepath%	Typically C:\
-%homedrive%	Current user’s personal directory
-%homeshare%	Current user’s personal directory
-%systemdrive%	Typically C:\
-%systemroot%	Windows directory
-%windir%	Windows directory
+
+These are Windows File Explorer address bar environment variable short-hands.
+
+| Address Bar Variable                     | Directory                                      |
+| ---                                      | ---                                            |
+| %allusersprofile%                        | ProgramData                                    |
+| %programfiles%                           | Program Files                                  |
+| %programfiles(x86)%                      | Program Files (x86)                            |
+| %userprofile%                            | Current user’s directory (C:\Users\username)   |
+| %localappdata%                           | %userprofile%\AppData\Local                    |
+| %appdata%                                | %userprofile%\AppData\Roaming                  |
+| %temp%                                   | %localappdata%\Temp                            |
+| %tmp%                                    | %localappdata%\Temp                            |
+| %homepath%                               | Typically C:\                                  |
+| %homedrive%                              | Current user’s personal directory              |
+| %homeshare%                              | Current user’s personal directory              |
+| %systemdrive%                            | Typically C:\                                  |
+| %systemroot%                             | Windows directory                              |
+| %windir%                                 | Windows directory                              |
 
 
 ## Application Window
