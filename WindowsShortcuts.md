@@ -3,28 +3,6 @@
 The Windows Key within shortcuts will be represented as <code>&#x2756; Win</code>.
 
 
-`&#955;`
-<code>&#955;</code>
-
-
-
-&#x229E; Win  
-&#x2756; Win
-
-```
-&#x229E; Win  
-&#x2756; Win
-```
-<code>
-&#x229E; Win  
-&#x2756; Win
-</code>
- 
-<pre>
-&#x229E; Win  
-&#x2756; Win
-</pre>
-
 ## General
 
 | Shortcut                                 | Description                                    | Alternative                | Remote Desktop Shortcut |
@@ -136,15 +114,20 @@ These are Windows File Explorer address bar environment variable short-hands.
 
 
 ## Other Tricks
-•	Shift+Left Click program icon opens another instance (or middle click)
-•	Double click a word to select it
-•	Double click and hold selects words when dragged
-•	Triple click to select the line of text
-•	Find process locking file by opening resmon (resource monitor) go to CPU > Associated Handles and search for locked file name. This will list processes using the file. Either close the process normally or right-click and End Process.
+
+-	`Shift`+`Left Click` program icon opens another instance (or middle click)
+-	`Double click` a word to select it
+-	`Double click` and hold selects words when dragged
+-	`Triple click` to select the line of text
+-	Find process locking file by opening resmon (resource monitor) go to CPU > Associated Handles and search for locked file name. This will list processes using the file. Either close the process normally or right-click and End Process.
 
 
 ## Common Shortcuts
-F1	Task Help
-F2	Rename
-F3	Find
-Ctrl+Scroll Wheel	Zoom
+
+| Shortcut                  | Description                |
+| ---                       | ---                        |
+| `F1`                      | Task Help                  |
+| `F2`                      | Rename                     |
+| `F3`                      | Find                       |
+| `Ctrl`+`Scroll Wheel`     | Zoom                       |
+<br>
