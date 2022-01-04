@@ -5,27 +5,27 @@ The Windows Key within shortcuts will be represented as <code>&#x2756; Win</code
 
 ## General
 
-| Shortcut                                     | Description                                    | Alternative                    | Remote Desktop Shortcut |
-| ---                                          | ---                                            | ---                            | ---                     |
-| <code>&#x2756; Win</code>                    | Start menu                                     |                                |                         |
-| <code>&#x2756; Win</code>+`L`                | Lock the PC                                    |                                |                         |
-| <code>&#x2756; Win</code>+`D`                | Show desktop                                   |                                |                         |
-| <code>&#x2756; Win</code>+`,`                | Peek at Desktop                                |                                |                         |
-| <code>&#x2756; Win</code>+`R`                | Open Run prompt                                |                                |                         |
-| <code>&#x2756; Win</code>+`I`                | Open Windows Settings                          |                                |                         |
-| <code>&#x2756; Win</code>+`P`                | Show project (display) options                 |                                |                         |
-| <code>&#x2756; Win</code>+`X`                | Quick Link Menu                                |                                |                         |
-| <code>&#x2756; Win</code>+`V`                | Clipboard (P pin / U unpin selected element)   |                                |                         |
-| <code>&#x2756; Win</code>+`Arrows`           | Shift active window around monitor             |                                |                         |
-| <code>&#x2756; Win</code>+`Shift`+`Arrows`   | Shift active window between monitors           |                                |                         |
-| <code>&#x2756; Win</code>+`Home`             | Minimise non-active windows                    |                                |                         |
-| <code>&#x2756; Win</code>+`.`                | Emoji list                                     | <code>&#x2756; Win</code>+`;`  |                         |
-| `Ctrl`+`Shift`+`Esc`                         | Task Manager                                   |                                |                         |
-| <code>&#x2630;</code>                        | Menu Key, open context menu                    | Mouse right click              |                         |
-| `Shift`+<code>&#x2630;</code>                | File Explorer advanced context menu            |                                |                         |
-| `Ctrl`+`Shift`+<code>&#x2756; Win</code>+`B` | Restart graphics driver to fix graphics issue  |                                |                         |
-| `Shift`+`Del`                                | Permanently delete file                        |                                |                         |
-| `Ctrl`+`Alt`+`Del`                           | Windows security screen                        |                                | `Ctrl`+`Alt`+`End`      |
+| Shortcut                                     | Description                                                | Alternative                          | Remote Desktop Shortcut |
+| ---                                          | ---                                                        | ---                                  | ---                     |
+| <code>&#x2756; Win</code>                    | Start menu                                                 | `Ctrl`+`Esc`                         |                         |
+| <code>&#x2756; Win</code>+`L`                | Lock the PC                                                |                                      |                         |
+| <code>&#x2756; Win</code>+`D`                | Show desktop                                               |                                      |                         |
+| <code>&#x2756; Win</code>+`,`                | Peek at Desktop                                            |                                      |                         |
+| <code>&#x2756; Win</code>+`R`                | Open Run prompt                                            |                                      |                         |
+| <code>&#x2756; Win</code>+`I`                | Open Windows Settings                                      |                                      |                         |
+| <code>&#x2756; Win</code>+`P`                | Show project (display) options                             |                                      |                         |
+| <code>&#x2756; Win</code>+`X`                | Quick Link Menu, also called Power User menu               |                                      |                         |
+| <code>&#x2756; Win</code>+`V`                | Clipboard (P pin / U unpin selected element)               |                                      |                         |
+| <code>&#x2756; Win</code>+`Arrows`           | Shift active window around monitor                         |                                      |                         |
+| <code>&#x2756; Win</code>+`Shift`+`Arrows`   | Shift active window between monitors                       |                                      |                         |
+| <code>&#x2756; Win</code>+`Home`             | Minimise non-active windows                                |                                      |                         |
+| <code>&#x2756; Win</code>+`.`                | Emoji list                                                 | <code>&#x2756; Win</code>+`;`        |                         |
+| `Ctrl`+`Shift`+`Esc`                         | Task Manager                                               |                                      |                         |
+| <code>&#x2630;</code>                        | Menu Key (also called application key), open context menu  | Mouse right click, or `Shift`+`F10`  |                         |
+| `Shift`+<code>&#x2630;</code>                | File Explorer advanced context menu                        |                                      |                         |
+| `Ctrl`+`Shift`+<code>&#x2756; Win</code>+`B` | Restart graphics driver to fix graphics issue              |                                      |                         |
+| `Shift`+`Del`                                | Permanently delete file                                    |                                      |                         |
+| `Ctrl`+`Alt`+`Del`                           | Windows security screen                                    |                                      | `Ctrl`+`Alt`+`End`      |
 <br>
 
 
@@ -111,6 +111,16 @@ These are Windows File Explorer address bar environment variable short-hands.
 | `Alt`+`Space`, `X`            | Maximise window                          | Double click the windows title bar   |
 | `Alt`+`Space`, `M`            | Move window (mouse or arrow keys)        |                                      |
 <br>
+
+
+## Window's App Name Shorcuts
+
+These are Window's UI apps that can be accessed from the Run prompt.
+
+| App name shortcut   | Application                                   | Description                              | Alternative      |
+| ---                 | ---                                           | ---                                      | ---              |
+| `regedit`           | Registry Editor                               | View and edit Window's registry values.  |                  |
+| `appwiz.cplq`       | Programs and Features > Uninstall a program   | Uninstall or change a program            |                  |
 
 
 ## Other Tricks
