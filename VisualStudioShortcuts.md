@@ -291,3 +291,20 @@ In Resharper these can be found by going to the Resharper Todo Explorer (default
 | `UnresolvedMergeConflict` |                                            |
 | `Not implemented`         |                                            | :heavy_check_mark:  |
 | `Bug`                     |                                            | :heavy_check_mark:  |
+<br>
+
+
+## C# Interactive
+
+REPL for trying code snippets quickly in Visual Studio.  
+Can be found by going to *View > Other Windows > C# Interactive*.
+
+| Command                   | Description                                | Example             |
+| ---                       | ---                                        | ---                 |
+| `#help`                   | List commands and shortcuts                |                     |
+| `#reset core`             | Switch to .net core                        |                     |
+| `#reset 32`               | Switch to .net framework 32-bit            |                     |
+| `#reset 64`               | Switch to .net framework 64-bit            |                     |
+| `#r "path\to\my.dll"`     | Load dll, such as a NuGet package          |                     |
+<br>
+
