@@ -273,8 +273,8 @@ This while either generate the code and pushing `enter` or `tab`.
 
 See:
 https://docs.microsoft.com/en-us/visualstudio/ide/code-snippets?view=vs-2022
-<br>
 
+<br>
 
 ## Comment Tokens
 
