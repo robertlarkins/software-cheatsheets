@@ -276,3 +276,18 @@ https://docs.microsoft.com/en-us/visualstudio/ide/code-snippets?view=vs-2022
 <br>
 
 
+## Comment Tokens
+
+These are tokens used in a comment that allows them to be easily found. These tokens should be used with a message so you know what was intended to be conveyed.
+
+In Visual Studio current tokens in the solution can be found by Task List (defaults).  
+In Resharper these can be found by going to the Resharper Todo Explorer (defaults).
+
+| Shortcut                  | Description                                | R# Default          |
+| ---                       | ---                                        | ---                 |
+| `TODO` or `Todo`          | To add or fix                              | :heavy_check_mark:  |
+| `UNDONE`                  | Code that is not finished (left undone)    |
+| `HACK`                    | Dirty code                                 |
+| `UnresolvedMergeConflict` |                                            |
+| `Not implemented`         |                                            | :heavy_check_mark:  |
+| `Bug`                     |                                            | :heavy_check_mark:  |
