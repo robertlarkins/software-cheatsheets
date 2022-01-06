@@ -17,5 +17,5 @@
 | `F`                       | Frame                               |
 | `M`                       | Minimap                             |
 | `Ctrl`+`K`                | Link to                             |
-| `Ctrl`+`D`                | Duplicate                           |
+| `Ctrl`+`D`                | Duplicate selected object           |
 <br>
