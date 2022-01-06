@@ -54,11 +54,11 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 | ---                      | ---                                        | :-:                 |
 | `Ctrl`+`;`               | Search Solution Explorer                   |                     |
 | `Alt`+`E`, `G`, `G`      | Go To (shortcut through menu)              |                     |
-| `Ctrl`+Shift+F           | Search solution                            |                     |
-| `Ctrl`+Shift+H           | Find and replace text in all files         |                     |
-| `Ctrl`+T                 | Search: 1x: everywhere, 2x: type, 3x: text | :heavy_check_mark:  |
-| `Ctrl`+Shift+T           | Search for File or Folder                  | :heavy_check_mark:  |
-| `Alt`+Shift+T            | Search for symbol (member or type)         | :heavy_check_mark:  |
+| `Ctrl`+`Shift`+`F`       | Search solution                            |                     |
+| `Ctrl`+`Shift`+`H`       | Find and replace text in all files         |                     |
+| `Ctrl`+`T`               | Search: 1x: everywhere, 2x: type, 3x: text | :heavy_check_mark:  |
+| `Ctrl`+`Shift`+`T`       | Search for File or Folder                  | :heavy_check_mark:  |
+| `Alt`+`Shift`+`T`        | Search for symbol (member or type)         | :heavy_check_mark:  |
 | `Ctrl`+`,`               | Recent files                               | :heavy_check_mark:  |
 | `Ctrl`+`Shift`+`,`       | Recent edits                               | :heavy_check_mark:  |
 <br>
