@@ -81,22 +81,23 @@ The Windows Key within shortcuts will be represented as <code>&#x2756; Win</code
 
 These are Windows File Explorer address bar environment variable short-hands.
 
-| Address Bar Variable             | Directory                                      |
-| ---                              | ---                                            |
-| `%allusersprofile%`              | ProgramData                                    |
-| `%programfiles%`                 | Program Files                                  |
-| `%programfiles(x86)%`            | Program Files (x86)                            |
-| `%userprofile%`                  | Current user’s directory (C:\Users\username)   |
-| `%localappdata%`                 | %userprofile%\AppData\Local                    |
-| `%appdata%`                      | %userprofile%\AppData\Roaming                  |
-| `%temp%`                         | %localappdata%\Temp                            |
-| `%tmp%`                          | %localappdata%\Temp                            |
-| `%homepath%`                     | Typically C:\                                  |
-| `%homedrive%`                    | Current user’s personal directory              |
-| `%homeshare%`                    | Current user’s personal directory              |
-| `%systemdrive%`                  | Typically C:\                                  |
-| `%systemroot%`                   | Windows directory                              |
-| `%windir%`                       | Windows directory                              |
+| Address Bar Variable             | Directory                                      | Alternative                         |
+| ---                              | ---                                            | ---                                 |
+| `%allusersprofile%`              | ProgramData                                    |                                     |
+| `%programfiles%`                 | Program Files                                  |                                     |
+| `%programfiles(x86)%`            | Program Files (x86)                            |                                     |
+| `%userprofile%`                  | Current user’s directory (C:\Users\username)   |                                     |
+| `%localappdata%`                 | %userprofile%\AppData\Local                    |                                     |
+| `%appdata%`                      | %userprofile%\AppData\Roaming                  |                                     |
+| `%temp%`                         | %localappdata%\Temp                            |                                     |
+| `%tmp%`                          | %localappdata%\Temp                            |                                     |
+| `%homepath%`                     | Typically C:\                                  |                                     |
+| `%homedrive%`                    | Current user’s personal directory              |                                     |
+| `%homeshare%`                    | Current user’s personal directory              |                                     |
+| `%systemdrive%`                  | Typically C:\                                  |                                     |
+| `%systemroot%`                   | Windows directory                              |                                     |
+| `%windir%`                       | Windows directory                              |                                     |
+| `powershell`                     | Open powershell at this directory              | `File > Open Windows PowerShell`    |
 <br>
 
 
