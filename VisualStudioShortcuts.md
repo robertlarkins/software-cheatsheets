@@ -215,21 +215,21 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 
 ## Building, Running & Debugging
 
-| Shortcut                  | Description                           | R# Shortcut         |
-| ---                       | ---                                   | :-:                 |
-| `Ctrl`+`Shift`+`B`        | Build                                 |                     |
-| `Alt`+`B`, `R`            | Rebuild (shortcut through menu)       |                     |
-| `F5`                      | Start Project, or continue running    |                     |
-| `Ctrl`+`F5`               | Start without Debugging               |                     |
-| `Ctrl`+`Shift`+`F5`       | Restart project                       |                     |
-| `Shift`+`F5`              | Stop Debugging                        |                     |
-| `F10`                     | Step over                             |                     |
-| `F11`                     | Step into                             |                     |
-| `Shift`+`F11`             | Step out                              |                     |
-| `Ctrl`+`F10`              | Run to cursor                         |                     |
-| `Alt`+`Num *`             | Go to current execution point         |                     |
-| `Ctrl`+`E`, `E`           | Run selected code in C# Interactive   |                     |
-| `Ctrl`+`E`, `T`           | Explore stack trace from clipboard    | :heavy_check_mark:  |
+| Shortcut                  | Description                           | R# Shortcut         | Alternative    |
+| ---                       | ---                                   | :-:                 | ---            |
+| `Ctrl`+`Shift`+`B`        | Build                                 |                     | `F6`           |
+| `Alt`+`B`, `R`            | Rebuild (shortcut through menu)       |                     |                |
+| `F5`                      | Start Project, or continue running    |                     |                |
+| `Ctrl`+`F5`               | Start without Debugging               |                     |                |
+| `Ctrl`+`Shift`+`F5`       | Restart project                       |                     |                |
+| `Shift`+`F5`              | Stop Debugging                        |                     |                |
+| `F10`                     | Step over                             |                     |                |
+| `F11`                     | Step into                             |                     |                |
+| `Shift`+`F11`             | Step out                              |                     |                |
+| `Ctrl`+`F10`              | Run to cursor                         |                     |                |
+| `Alt`+`Num *`             | Go to current execution point         |                     |                |
+| `Ctrl`+`E`, `E`           | Run selected code in C# Interactive   |                     |                |
+| `Ctrl`+`E`, `T`           | Explore stack trace from clipboard    | :heavy_check_mark:  |                |
 <br>
 
  
