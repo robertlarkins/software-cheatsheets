@@ -4,14 +4,14 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 
 ## General
 
-| Shortcut                  | Description                         | R# Shortcut         |
-| ---                       | ---                                 | :-:                 |
-| `Ctrl`+`Q`                | Quick Launch (Search)               |                     |
-| `Alt`+`Shift`+`Enter`     | Full screen                         |                     |
-| `Ctrl`+`Shift`+`A`        | Find Resharper command              | :heavy_check_mark:  |
-| `Ctrl`+`Alt`+`Ins`        | Create file (Class, Interface, etc) | :heavy_check_mark:  |
-| `Ctrl`+`\`, `T`           | Task List                           | :heavy_check_mark:  |
-| `Ctrl`+`Alt`+`D`          | Todo Explorer                       | :heavy_check_mark:  |
+| Shortcut                  | Description                                                                 | R# Shortcut         |
+| ---                       | ---                                                                         | :-:                 |
+| `Ctrl`+`Q`                | Quick Launch (Search)                                                       |                     |
+| `Alt`+`Shift`+`Enter`     | Full screen                                                                 |                     |
+| `Ctrl`+`Shift`+`A`        | Find Resharper command                                                      | :heavy_check_mark:  |
+| `Ctrl`+`Alt`+`Ins`        | Create file (Class, Interface, etc) from template (similar to `Ctrl`+`Ins`) | :heavy_check_mark:  |
+| `Ctrl`+`\`, `T`           | Task List                                                                   | :heavy_check_mark:  |
+| `Ctrl`+`Alt`+`D`          | Todo Explorer                                                               | :heavy_check_mark:  |
 <br>
 
 
