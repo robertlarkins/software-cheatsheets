@@ -161,8 +161,8 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 | `Ctrl`+`Alt`+`=`     | Go to next peek                        |               |
 | `Ctrl`+`Alt`+`Home`  | Promote peek to new tab                |               |
 | `Shift`+`Esc`        | Toggle between peek and code           |               |
-| `F8`                 | Navigate up results in peek            |               |
-| `Shift`+`F8`         | Navigate down results in peek          |               |
+| `F8`                 | Navigate down results in peek          |               |
+| `Shift`+`F8`         | Navigate up results in peek            |               |
 <br>
 
 
