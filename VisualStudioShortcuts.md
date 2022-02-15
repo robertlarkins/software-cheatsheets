@@ -2,6 +2,7 @@
 
 Short cuts with an unhighlighted comma indicates a two part shortcut (or chord). Perform the first part, then the second part.
 
+
 ## General
 
 | Shortcut                  | Description                                                                 | R# Shortcut         |
@@ -48,6 +49,7 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 | `Ctrl`+`M`, `Ctrl`+`M`   | Expand or Collapse region at cursor   |                     |
 <br>
 
+
 ## Searching
 
 | Shortcut                 | Description                                | R# Shortcut         |
@@ -63,23 +65,25 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 | `Ctrl`+`Shift`+`,`       | Recent edits                               | :heavy_check_mark:  |
 <br>
 
+
 ## Text Editing
 
-| Shortcut                     | Description                            | R# Shortcut         | Alternative          |
-| ---                          | ---                                    | :-:                 | ---                  |
-| `Ins`                        | Toggle insert or override when typing  |                     |                      |
-| `Ctrl`+`C`                   | Copy line if no text is selected       |                     |                      |
-| `Ctrl`+`X`                   | Cut line if no text is selected        |                     |                      |
-| `Ctrl`+`Shift`+`S`           | Save all files                         |                     |                      |
-| `Ctrl`+`Shift`+`V`           | Clipboard ring                         |                     | `Ctrl`+`Shift`+`Ins` |
-| `Shift`+`Enter`              | Smart break line                       |                     |                      |
-| `Tab`                        | Indent selected text                   |                     |                      |
-| `Shift`+`Tab`                | Unindent selected text                 |                     |                      |
-| `Ctrl`+`Alt`+`Shift`+`Up`    | Shift line or code block up            | :heavy_check_mark:  |                      |
-| `Ctrl`+`Alt`+`Shift`+`Down`  | Shift line or code block down          | :heavy_check_mark:  |                      |
-| `Ctrl`+`Alt`+`Shift`+`Left`  | Move argument left                     | :heavy_check_mark:  |                      |
-| `Ctrl`+`Alt`+`Shift`+`Right` | Move argument right                    | :heavy_check_mark:  |                      |
+| Shortcut                     | Description                            | R# Shortcut         | Alternative          | Remote Desktop            |
+| ---                          | ---                                    | :-:                 | ---                  | ---                       |
+| `Ins`                        | Toggle insert or override when typing  |                     |                      |                           |
+| `Ctrl`+`C`                   | Copy line if no text is selected       |                     |                      |                           |
+| `Ctrl`+`X`                   | Cut line if no text is selected        |                     |                      |                           |
+| `Ctrl`+`Shift`+`S`           | Save all files                         |                     |                      |                           |
+| `Ctrl`+`Shift`+`V`           | Clipboard ring                         |                     | `Ctrl`+`Shift`+`Ins` |                           |
+| `Shift`+`Enter`              | Smart break line                       |                     |                      |                           |
+| `Tab`                        | Indent selected text                   |                     |                      |                           |
+| `Shift`+`Tab`                | Unindent selected text                 |                     |                      |                           |
+| `Ctrl`+`Alt`+`Shift`+`Up`    | Shift line or code block up            | :heavy_check_mark:  |                      | `Ctrl`+`Alt`+`Shift`+`H`  |
+| `Ctrl`+`Alt`+`Shift`+`Down`  | Shift line or code block down          | :heavy_check_mark:  |                      | `Ctrl`+`Alt`+`Shift`+`J`  |
+| `Ctrl`+`Alt`+`Shift`+`Left`  | Move argument left                     | :heavy_check_mark:  |                      | `Ctrl`+`Alt`+`Shift`+`K`  |
+| `Ctrl`+`Alt`+`Shift`+`Right` | Move argument right                    | :heavy_check_mark:  |                      | `Ctrl`+`Alt`+`Shift`+`L`  |
 <br>
+
  
 ## Highlighting
 
@@ -89,6 +93,7 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 | `Ctrl`+`Alt`+`PgDn`       | Go to next highlight                    | :heavy_check_mark:  |
 | `Ctrl`+`Alt`+`PgUp`       | Go to previous highlight                | :heavy_check_mark:  |
 <br>
+
 
 ## Selection
 
@@ -100,6 +105,7 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 | `Ctrl`+`Shift`+`[`        | Select containing declaration  | :heavy_check_mark:  |                    |
 <br>
 
+
 ## Carets
 
 | Shortcut                  | Description                                    | R# Shortcut  |
@@ -108,6 +114,7 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 | `Alt`+`Shift`+`.`         | Add caret at next location matching selection  |              |
 | `Alt`+`Shift`+`;`         | Add carets at all locations matching selection |              |
 <br>
+
 
 ## Navigation
 
@@ -129,6 +136,7 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 | `Ctrl`+`K`, `Ctrl`+`T`     | Display Call Hierarchy for member at caret | :heavy_check_mark:  |                     |
 | `Alt`+`Shift`+`L`          | Go to current file in Solution Explorer    | :heavy_check_mark:  |                     |
 <br>
+
 
 ## Navigate Within File
 
@@ -246,17 +254,6 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 <br>
 
 
-## Remote Desktop Equivalent Shortcuts
-
-| Shortcut                  | Description                         | R# Shortcut         |
-| ---                       | ---                                 | :-:                 |
-| `Ctrl`+`Alt`+`Shift`+`H`  | Shift line or code block up         | :heavy_check_mark:  |
-| `Ctrl`+`Alt`+`Shift`+`J`  | Shift line or code block down       | :heavy_check_mark:  |
-| `Ctrl`+`Alt`+`Shift`+`K`  | Move argument left                  | :heavy_check_mark:  |
-| `Ctrl`+`Alt`+`Shift`+`L`  | Move argument right                 | :heavy_check_mark:  |
-<br>
-
-
 ## Code Snippets
 
 Code snippets are small blocks of reusable code that can be inserted into a code file.
@@ -270,11 +267,11 @@ This while either generate the code and pushing `enter` or `tab`.
 | `propg`                   | Create a private setter property           |
 | `forr`                    | Create a decrementing for loop             |
 | `\\\`                     | Generate comment template for member       |
+<br>
 
 See:
 https://docs.microsoft.com/en-us/visualstudio/ide/code-snippets?view=vs-2022
 
-<br>
 
 ## Comment Tokens
 
@@ -286,9 +283,9 @@ In Resharper these can be found by going to the Resharper Todo Explorer (default
 | Shortcut                  | Description                                | R# Default          |
 | ---                       | ---                                        | ---                 |
 | `TODO` or `Todo`          | To add or fix                              | :heavy_check_mark:  |
-| `UNDONE`                  | Code that is not finished (left undone)    |
-| `HACK`                    | Dirty code                                 |
-| `UnresolvedMergeConflict` |                                            |
+| `UNDONE`                  | Code that is not finished (left undone)    |                     |
+| `HACK`                    | Dirty code                                 |                     |
+| `UnresolvedMergeConflict` |                                            |                     |
 | `Not implemented`         |                                            | :heavy_check_mark:  |
 | `Bug`                     |                                            | :heavy_check_mark:  |
 <br>
