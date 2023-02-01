@@ -130,7 +130,6 @@ These are Window's UI apps that can be accessed from the Run prompt.
 -	`Double click` a word to select it
 -	`Double click` and hold selects words when dragged
 -	`Triple click` to select the line of text
--	Find process locking file by opening resmon (resource monitor) go to CPU > Associated Handles and search for locked file name. This will list processes using the file. Either close the process normally or right-click and End Process.
 
 
 ## Common Shortcuts
