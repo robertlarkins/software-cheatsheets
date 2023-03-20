@@ -135,6 +135,7 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 | `Ctrl`+`Alt`+`Shift`+`F12` | Advanced find usages of symbol             |                     |
 | `Ctrl`+`K`, `Ctrl`+`T`     | Display Call Hierarchy for member at caret |                     |
 | `Alt`+`Shift`+`L`          | Go to current file in Solution Explorer    |                     |
+| `Ctrl`+`Alt`+`Shift`+`A`   | Code exploration and inspection            |                     |
 <br>
 
 
