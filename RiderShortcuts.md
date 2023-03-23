@@ -42,6 +42,9 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 
 ## Regions
 
+The context menu for this is called _Folding_. Found under `Code > Folding` or
+Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the context menu and go Folding.
+
 | Shortcut                 | Description                           |
 | ---                      | ---                                   |
 | `Ctrl`+`M`, `Ctrl`+`O`   | Collapse all regions                  |
