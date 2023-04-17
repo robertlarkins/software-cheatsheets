@@ -200,16 +200,16 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 
 
 ## Refactoring (SE: Multilevel in Solution Explorer)
-| Shortcut                  | Description                             | Solution Explorer  |
-| ---                       | ---                                     | ---                |
-| `Ctrl`+`R`, `Ctrl`+`R`    | Rename object                           |                    |
-| `Ctrl`+`R`, `G`           | Remove and sort usings                  |                    |
-| `Ctrl`+`R`, `R`           | Rename object at caret                  |                    |
-| `Ctrl`+`Shift`+`R`        | Refactor object at caret or selection   |                    |
-| `Ctrl`+`K`, `Ctrl`+`D`    | Format syntax                           |                    |
-| `Ctrl`+`E`, `C`           | Code cleanup                            | Apply at any level |
-| `Ctrl`+`Alt`+`Enter`      | Apply code formatting rules             | Apply at any level |
-| `Alt`+`Del`               | Safe delete                             |                    |
+| Shortcut                  | Description                               | Solution Explorer  |
+| ---                       | ---                                       | ---                |
+| `Ctrl`+`R`, `Ctrl`+`R`    | Rename object                             |                    |
+| `Ctrl`+`R`, `G`           | Optimize Imports (Remove and sort usings) |                    |
+| `Ctrl`+`R`, `R`           | Rename object at caret                    |                    |
+| `Ctrl`+`Shift`+`R`        | Refactor object at caret or selection     |                    |
+| `Ctrl`+`K`, `Ctrl`+`D`    | Format syntax                             |                    |
+| `Ctrl`+`E`, `C`           | Code cleanup                              | Apply at any level |
+| `Ctrl`+`Alt`+`Enter`      | Apply code formatting rules               | Apply at any level |
+| `Alt`+`Del`               | Safe delete                               |                    |
 <br>
 
 
