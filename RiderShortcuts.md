@@ -121,24 +121,23 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 
 ## Navigation
 
-| Shortcut                   | Description                                | Alternative         |
-| ---                        | ---                                        | ---                 |
-| `Alt`+`` ` ``              | Navigate To destinations at caret          |                     |
-| `F12`                      | Go to definition at caret                  | `Ctrl`+`Left Click` |
-| `Ctrl`+`F12`               | Go to implementation at caret              |                     |
-| `Ctrl`+`-`                 | Go to previous location                    |                     |
-| `Ctrl`+`Shift`+`-`         | Go to next location                        |                     |
-| `Ctrl`+`Shift`+`Backspace` | Go to last edit location                   |                     |
-| `Ctrl`+`Alt`+`F7`          | Show related files                         |                     |
-| `Alt`+`End`                | Go to derived symbols of object at caret   |                     |
-| `Alt`+`Home`               | Go to base symbols of object at caret      |                     |
-| `Ctrl`+`Shift`+`F11`       | Go to declaration of symbol type           |                     |
-| `Alt`+`Shift`+`F12`        | Show symbol usages                         |                     |
-| `Shift`+`F12`              | Find usages of symbol                      |                     |
-| `Ctrl`+`Alt`+`Shift`+`F12` | Advanced find usages of symbol             |                     |
-| `Ctrl`+`K`, `Ctrl`+`T`     | Display Call Hierarchy for member at caret |                     |
-| `Alt`+`Shift`+`L`          | Go to current file in Solution Explorer    |                     |
-| `Ctrl`+`Alt`+`Shift`+`A`   | Code exploration and inspection            |                     |
+| Shortcut                   | Description                                         | Alternative         |
+| ---                        | ---                                                 | ---                 |
+| `Alt`+`` ` ``              | Navigate To destinations at caret                   |                     |
+| `F12`                      | Go to definition at caret                           | `Ctrl`+`Left Click` |
+| `Ctrl`+`F12`               | Go to implementation at caret                       |                     |
+| `Ctrl`+`-`                 | Go to previous location                             |                     |
+| `Ctrl`+`Shift`+`-`         | Go to next location                                 |                     |
+| `Ctrl`+`Shift`+`Backspace` | Go to last edit location                            |                     |
+| `Ctrl`+`Alt`+`F7`          | Show related files                                  |                     |
+| `Alt`+`End`                | Go to derived symbols of object at caret            |                     |
+| `Alt`+`Home`               | Go to base symbols of object at caret               |                     |
+| `Ctrl`+`Shift`+`F11`       | Go to declaration of symbol type                    |                     |
+| `Alt`+`Shift`+`F12`        | Show symbol usages                                  |                     |
+| `Shift`+`F12`              | Find usages of symbol                               |                     |
+| `Ctrl`+`Alt`+`Shift`+`F12` | Advanced find usages of symbol                      |                     |
+| `Alt`+`Shift`+`L`          | Go to current file in Solution Explorer             |                     |
+| `Ctrl`+`Alt`+`Shift`+`A`   | Code exploration and inspection (eg: call tracking) |                     |
 <br>
 
 
