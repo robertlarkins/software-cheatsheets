@@ -30,13 +30,13 @@ Short cuts with an unhighlighted comma indicates a two part shortcut (or chord).
 
 ## Tab Management
 
-| Shortcut                  | Description                                        |
-| ---                       | ---                                                |
-| `Ctrl`+`F4`               | Close current tab                                  |
-| `Ctrl`+`Tab`              | View active file list, (hold Ctrl, use arrow keys) |
-| `Ctrl`+`Alt`+`Down`       | Show hidden tabs list (up/down to select)          |
-| `Ctrl`+`F6`               | Go to previous tab                                 |
-| `Ctrl`+`Shift`+`F6`       | Go to next tab                                     |
+| Shortcut                  | Description                                        | Alternative         |
+| ---                       | ---                                                | ---                 |
+| `Ctrl`+`F4`               | Close current tab                                  |                     |
+| `Ctrl`+`Tab`              | View active file list, (hold Ctrl, use arrow keys) |                     |
+| `Ctrl`+`Alt`+`Down`       | Show hidden tabs list (up/down to select)          |                     |
+| `Ctrl`+`F6`               | Go to previous tab                                 | `Ctrl`+`Alt`+`PgUp` |
+| `Ctrl`+`Shift`+`F6`       | Go to next tab                                     | `Ctrl`+`Alt`+`PgDn` |
 <br>
 
 
