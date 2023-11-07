@@ -251,8 +251,8 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 | ---                       | ---                                 |
 | `Ctrl`+`R`, `T`           | Run Tests                           |
 | `Ctrl`+`R`, `Ctrl`+`T`    | Debug Tests                         |
-| `Ctrl`+`U`, `R`           | Run ReSharper tests                 |
-| `Ctrl`+`U`, `D`           | Debug ReSharper tests               |
+| `Ctrl`+`T`, `R`           | Run ReSharper tests                 |
+| `Ctrl`+`T`, `D`           | Debug ReSharper tests               |
 | `Ctrl`+`Alt`+`T`          | Unit test sessions                  |
 | `Ctrl`+`Alt`+`U`          | Unit test explorer                  |
 <br>
