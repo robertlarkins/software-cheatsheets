@@ -1,7 +1,7 @@
 # Rider Shortcuts
 
 Short cuts with an unhighlighted comma indicates a two part shortcut (or chord). Perform the first part, then the second part.
-These short cuts are based on the ReSharper Keymap (File > Settings > Keymap > ReSharper)
+These short cuts are based on the Visual Studio 2022 Keymap (File > Settings > Keymap > Visual Studio 2022)
 
 
 ## General
@@ -168,7 +168,7 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 
 | Shortcut             | Description                                              |
 | ---                  | ---                                                      |
-| `Ctrl`+`Shift`+`I`   | Quick Definition. Peek definition at caret. Esc to exit. |
+| `Alt`+`12`           | Quick Definition. Peek definition at caret. Esc to exit. |
 | `Ctrl`+`Alt`+`-`     | Go to previous peek                                      |
 | `Ctrl`+`Alt`+`=`     | Go to next peek                                          |
 | `Ctrl`+`Alt`+`Home`  | Promote peek to new tab                                  |
@@ -203,7 +203,7 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 | Shortcut                  | Description                               | Solution Explorer  |
 | ---                       | ---                                       | ---                |
 | `Ctrl`+`R`, `Ctrl`+`R`    | Rename object                             |                    |
-| `Ctrl`+`Alt`+`O`          | Optimize Imports (Remove and sort usings) |                    |
+| `Ctrl`+`R`, `G`           | Optimize Imports (Remove and sort usings) |                    |
 | `Ctrl`+`R`, `R`           | Rename object at caret                    |                    |
 | `Ctrl`+`Shift`+`R`        | Refactor object at caret or selection     |                    |
 | `Ctrl`+`K`, `Ctrl`+`D`    | Format syntax                             |                    |
@@ -251,8 +251,8 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 | ---                       | ---                                 |
 | `Ctrl`+`R`, `T`           | Run Tests                           |
 | `Ctrl`+`R`, `Ctrl`+`T`    | Debug Tests                         |
-| `Ctrl`+`T`, `R`           | Run ReSharper tests                 |
-| `Ctrl`+`T`, `D`           | Debug ReSharper tests               |
+| `Ctrl`+`U`, `R`           | Run ReSharper tests                 |
+| `Ctrl`+`U`, `D`           | Debug ReSharper tests               |
 | `Ctrl`+`Alt`+`T`          | Unit test sessions                  |
 | `Ctrl`+`Alt`+`U`          | Unit test explorer                  |
 <br>
