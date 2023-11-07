@@ -166,15 +166,15 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 
 ## Peek View
 
-| Shortcut             | Description                            |
-| ---                  | ---                                    |
-| `Alt`+`F12`          | Peek definition at caret. Esc to exit. |
-| `Ctrl`+`Alt`+`-`     | Go to previous peek                    |
-| `Ctrl`+`Alt`+`=`     | Go to next peek                        |
-| `Ctrl`+`Alt`+`Home`  | Promote peek to new tab                |
-| `Shift`+`Esc`        | Toggle between peek and code           |
-| `F8`                 | Navigate down results in peek          |
-| `Shift`+`F8`         | Navigate up results in peek            |
+| Shortcut             | Description                                              |
+| ---                  | ---                                                      |
+| `Ctrl`+`Shift`+`I`   | Quick Definition. Peek definition at caret. Esc to exit. |
+| `Ctrl`+`Alt`+`-`     | Go to previous peek                                      |
+| `Ctrl`+`Alt`+`=`     | Go to next peek                                          |
+| `Ctrl`+`Alt`+`Home`  | Promote peek to new tab                                  |
+| `Shift`+`Esc`        | Toggle between peek and code                             |
+| `F8`                 | Navigate down results in peek                            |
+| `Shift`+`F8`         | Navigate up results in peek                              |
 <br>
 
 
