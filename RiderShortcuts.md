@@ -1,6 +1,7 @@
 # Rider Shortcuts
 
 Short cuts with an unhighlighted comma indicates a two part shortcut (or chord). Perform the first part, then the second part.
+These short cuts are based on the ReSharper Keymap (File > Settings > Keymap > ReSharper)
 
 
 ## General
@@ -202,7 +203,7 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 | Shortcut                  | Description                               | Solution Explorer  |
 | ---                       | ---                                       | ---                |
 | `Ctrl`+`R`, `Ctrl`+`R`    | Rename object                             |                    |
-| `Ctrl`+`R`, `G`           | Optimize Imports (Remove and sort usings) |                    |
+| `Ctrl`+`Alt`+`O`          | Optimize Imports (Remove and sort usings) |                    |
 | `Ctrl`+`R`, `R`           | Rename object at caret                    |                    |
 | `Ctrl`+`Shift`+`R`        | Refactor object at caret or selection     |                    |
 | `Ctrl`+`K`, `Ctrl`+`D`    | Format syntax                             |                    |
