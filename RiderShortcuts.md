@@ -6,14 +6,12 @@ These short cuts are based on the Visual Studio 2022 Keymap (File > Settings > K
 
 ## General
 
-| Shortcut                  | Description                                                                 |
-| ---                       | ---                                                                         |
-| `Ctrl`+`Q`                | Quick Launch (Search)                                                       |
-| `Alt`+`Shift`+`Enter`     | Full screen                                                                 |
-| `Ctrl`+`Shift`+`A`        | Find Resharper command                                                      |
-| `Ctrl`+`Alt`+`Ins`        | Create file (Class, Interface, etc) from template (similar to `Ctrl`+`Ins`) |
-| `Ctrl`+`\`, `T`           | Task List                                                                   |
-| `Ctrl`+`Alt`+`D`          | Todo Explorer                                                               |
+| Shortcut                | Description                                         |
+| ---                     | ---                                                 |
+| `Ctrl`+`Q`              | Quick Launch (Search) / Find ReSharper command      |
+| `Alt`+`Shift`+`Enter`   | Full screen                                         |
+|                         | Task List                                           |
+|                         | Todo Explorer                                       |
 <br>
 
 
@@ -24,8 +22,7 @@ These short cuts are based on the Visual Studio 2022 Keymap (File > Settings > K
 | `Ctrl`+`Space`            | Show Intellisense                         |              |
 | `Ctrl`+`Shift`+`Space`    | Show Parameter Info                       |              |
 | `Alt`+`Enter`             | Show Properties or changes                | `Ctrl`+`.`   |
-| `Ctrl`+`K`, `Ctrl`+`I`    | Show QuickInfo                            |              |
-| `Ctrl`+`Shift`+`F1`       | Quick documentation of symbol at caret    |              |
+| `Ctrl`+`K`, `Ctrl`+`I`    | Show QuickInfo of item at caret           |              |
 <br>
 
 
@@ -35,9 +32,9 @@ These short cuts are based on the Visual Studio 2022 Keymap (File > Settings > K
 | ---                       | ---                                                | ---                 |
 | `Ctrl`+`F4`               | Close current tab                                  |                     |
 | `Ctrl`+`Tab`              | View active file list, (hold Ctrl, use arrow keys) |                     |
-| `Ctrl`+`Alt`+`Down`       | Show hidden tabs list (up/down to select)          |                     |
-| `Ctrl`+`F6`               | Go to previous tab                                 | `Ctrl`+`Alt`+`PgUp` |
-| `Ctrl`+`Shift`+`F6`       | Go to next tab                                     | `Ctrl`+`Alt`+`PgDn` |
+|                           | Show hidden tabs (up/down to select)               |                     |
+|                           | Go to previous tab                                 |                     |
+|                           | Go to next tab                                     |                     |
 <br>
 
 
@@ -49,8 +46,8 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 | Shortcut                 | Description                           |
 | ---                      | ---                                   |
 | `Ctrl`+`M`, `Ctrl`+`O`   | Collapse all regions                  |
-| `Ctrl`+`M`, `Ctrl`+`P`   | Expand all regions                    |
-| `Ctrl`+`M`, `Ctrl`+`M`   | Expand or Collapse region at cursor   |
+|                          | Expand all regions                    |
+| `Ctrl`+`M`, `M`          | Expand or Collapse region at cursor   |
 <br>
 
 
@@ -58,15 +55,14 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 
 | Shortcut                 | Description                                |
 | ---                      | ---                                        |
-| `Ctrl`+`;`               | Search Solution Explorer                   |
-| `Alt`+`E`, `G`, `G`      | Go To (shortcut through menu)              |
-| `Ctrl`+`Shift`+`F`       | Search solution                            |
-| `Ctrl`+`Shift`+`H`       | Find and replace text in all files         |
-| `Ctrl`+`T`               | Search: 1x: everywhere, 2x: type, 3x: text |
-| `Ctrl`+`Shift`+`T`       | Search for File or Folder                  |
-| `Alt`+`Shift`+`T`        | Search for symbol (member or type)         |
-| `Ctrl`+`,`               | Recent files                               |
-| `Ctrl`+`Shift`+`,`       | Recent edits                               |
+|                          | Search Solution Explorer                   |
+| `Ctrl`+`Shift`+`F`       | Find in Files                              |
+| `Ctrl`+`Shift`+`H`       | Replace in Files                           |
+| `Ctrl`+`T`               | Search All                                 |
+| `Ctrl`+`Shift`+`T`       | Search for File (or Folder)                |
+| `Ctrl`+`Alt`+`Shift`+`T` | Search for symbol (member or type)         |
+|                          | Recent files                               |
+|                          | Recent edits                               |
 <br>
 
 
@@ -79,7 +75,7 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 | `Ctrl`+`X`                   | Cut line if no text is selected        |                      |                           |
 | `Ctrl`+`Shift`+`S`           | Save all files                         |                      |                           |
 | `Ctrl`+`Shift`+`V`           | Clipboard ring                         | `Ctrl`+`Shift`+`Ins` |                           |
-| `Shift`+`Enter`              | Smart break line                       |                      |                           |
+|                              | Smart break line                       |                      |                           |
 | `Tab`                        | Indent selected text                   |                      |                           |
 | `Shift`+`Tab`                | Unindent selected text                 |                      |                           |
 | `Ctrl`+`Alt`+`Shift`+`Up`    | Shift line or code block up            |                      | `Ctrl`+`Alt`+`Shift`+`H`  |
@@ -93,9 +89,9 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 
 | Shortcut                  | Description                             |
 | ---                       | ---                                     |
-| `Alt`+`Shift`+`F11`       | Highlight symbol usages (Esc to remove) |
-| `Ctrl`+`Alt`+`PgDn`       | Go to next highlight                    |
-| `Ctrl`+`Alt`+`PgUp`       | Go to previous highlight                |
+|                           | Highlight symbol usages (Esc to remove) |
+|                           | Go to next highlight                    |
+|                           | Go to previous highlight                |
 <br>
 
 
@@ -124,8 +120,8 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 
 | Shortcut                   | Description                                         | Alternative         |
 | ---                        | ---                                                 | ---                 |
-| `Alt`+`` ` ``              | Navigate To destinations at caret                   |                     |
-| `F12`                      | Go to definition at caret                           | `Ctrl`+`Left Click` |
+| `Alt`+`` ` ``              | Navigate To menu                                    |                     |
+| `F12`                      | Go to declaration at caret                          | `Ctrl`+`Left Click` |
 | `Ctrl`+`F12`               | Go to implementation at caret                       |                     |
 | `Ctrl`+`-`                 | Go to previous location                             |                     |
 | `Ctrl`+`Shift`+`-`         | Go to next location                                 |                     |
@@ -133,7 +129,6 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 | `Ctrl`+`Alt`+`F7`          | Show related files                                  |                     |
 | `Alt`+`End`                | Go to derived symbols of object at caret            |                     |
 | `Alt`+`Home`               | Go to base symbols of object at caret               |                     |
-| `Ctrl`+`Shift`+`F11`       | Go to declaration of symbol type                    |                     |
 | `Alt`+`Shift`+`F12`        | Show symbol usages                                  |                     |
 | `Shift`+`F12`              | Find usages of symbol                               |                     |
 | `Ctrl`+`Alt`+`Shift`+`F12` | Advanced find usages of symbol                      |                     |
@@ -152,15 +147,15 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 | `Alt`+`Shift`+`[`         | Go to containing block              |
 | `Ctrl`+`[`                | Go to containing declaration        |
 | `Ctrl`+`]`                | Go to corresponding brace           |
-| `Ctrl`+`Shift`+`]`        | Select to corresponding brace       |
+|                           | Select to corresponding brace       |
 | `Alt`+`\`                 | Search members in class             |
-| `Alt`+`Up`                | Go to previous member in file       |
-| `Alt`+`Down`              | Go to next member in file           |
+|                           | Go to previous member in file       |
+|                           | Go to next member in file           |
 | `Alt`+`PgDn`              | Go to next issue                    |
 | `Alt`+`PgUp`              | Go to previous issue                |
 | `Alt`+`Shift`+`PgDn`      | Go to next compilation error        |
 | `Alt`+`Shift`+`PgUp`      | Go to previous compilation error    |
-| `Ctrl`+`Alt`+`F`          | File Structure                      |
+|                           | File Structure                      |
 <br>
  
 
@@ -169,12 +164,6 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 | Shortcut             | Description                                              |
 | ---                  | ---                                                      |
 | `Alt`+`12`           | Quick Definition. Peek definition at caret. Esc to exit. |
-| `Ctrl`+`Alt`+`-`     | Go to previous peek                                      |
-| `Ctrl`+`Alt`+`=`     | Go to next peek                                          |
-| `Ctrl`+`Alt`+`Home`  | Promote peek to new tab                                  |
-| `Shift`+`Esc`        | Toggle between peek and code                             |
-| `F8`                 | Navigate down results in peek                            |
-| `Shift`+`F8`         | Navigate up results in peek                              |
 <br>
 
 
@@ -182,8 +171,6 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 
 | Shortcut               | Description         | Solution Explorer |
 | ---                    | ---                 | ---               |
-| `Ctrl`+`Alt`+`Space`   | Smart completion    |                   |
-| `Ctrl`+`Shift`+`Enter` | Complete statement  |                   |
 | `Alt`+`Ins`            | Generate code.      | Generate File     |
 <br>
 
@@ -199,17 +186,15 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 <br>
 
 
-## Refactoring (SE: Multilevel in Solution Explorer)
+## Refactoring
 | Shortcut                  | Description                               | Solution Explorer  |
 | ---                       | ---                                       | ---                |
-| `Ctrl`+`R`, `Ctrl`+`R`    | Rename object                             |                    |
 | `Ctrl`+`R`, `G`           | Optimize Imports (Remove and sort usings) |                    |
 | `Ctrl`+`R`, `R`           | Rename object at caret                    |                    |
 | `Ctrl`+`Shift`+`R`        | Refactor object at caret or selection     |                    |
 | `Ctrl`+`K`, `Ctrl`+`D`    | Format syntax                             |                    |
 | `Ctrl`+`E`, `C`           | Code cleanup                              | Apply at any level |
 | `Ctrl`+`Alt`+`Enter`      | Apply code formatting rules               | Apply at any level |
-| `Alt`+`Del`               | Safe delete                               |                    |
 <br>
 
 
@@ -220,7 +205,7 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 | `F9`                      | Toggle breakpoint at caret               |
 | `Ctrl`+`F9`               | Enable or disable break point at caret   |
 | `Ctrl`+`Shift`+`F9`       | Delete all break points                  |
-| `Alt`+`F9`, `C`           | Breakpoint conditions                    |
+| `Alt`+`F9`                | Breakpoint conditions                    |
 | `Ctrl`+`Alt`+`B`          | Breakpoint window                        |
 <br>
 
@@ -240,21 +225,17 @@ Right-Click (or the context menu key <code>&#x2630;</code>) to bring up the cont
 | `Shift`+`F11`             | Step out                              |                |
 | `Ctrl`+`F10`              | Run to cursor                         |                |
 | `Alt`+`Num *`             | Go to current execution point         |                |
-| `Ctrl`+`E`, `E`           | Run selected code in C# Interactive   |                |
-| `Ctrl`+`E`, `T`           | Explore stack trace from clipboard    |                |
 <br>
 
  
 ## Testing
 
-| Shortcut                  | Description                         |
-| ---                       | ---                                 |
-| `Ctrl`+`R`, `T`           | Run Tests                           |
-| `Ctrl`+`R`, `Ctrl`+`T`    | Debug Tests                         |
-| `Ctrl`+`U`, `R`           | Run ReSharper tests                 |
-| `Ctrl`+`U`, `D`           | Debug ReSharper tests               |
-| `Ctrl`+`Alt`+`T`          | Unit test sessions                  |
-| `Ctrl`+`Alt`+`U`          | Unit test explorer                  |
+| Shortcut                  | Description               |
+| ---                       | ---                       |
+| `Ctrl`+`U`, `R`           | Run tests                 |
+| `Ctrl`+`U`, `D`           | Debug tests               |
+| `Ctrl`+`Alt`+`T`          | Unit test sessions        |
+| `Ctrl`+`Alt`+`U`          | Unit test explorer        |
 <br>
 
 
