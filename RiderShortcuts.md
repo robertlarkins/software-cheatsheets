@@ -33,8 +33,8 @@ These short cuts are based on the Visual Studio 2022 Keymap (File > Settings > K
 | `Ctrl`+`F4`               | Close current tab                                  |                     |
 | `Ctrl`+`Tab`              | View active file list, (hold Ctrl, use arrow keys) |                     |
 |                           | Show hidden tabs (up/down to select)               |                     |
-|                           | Go to previous tab                                 |                     |
-|                           | Go to next tab                                     |                     |
+| `Ctrl`+`Alt`+`PgUp`       | Go to previous tab                                 |                     |
+| `Ctrl`+`Alt`+`PgDn`       | Go to next tab                                     |                     |
 <br>
 
 
